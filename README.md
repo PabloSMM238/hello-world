@@ -1,3 +1,6 @@
 # hello-world
 Este repositorio es para practicar el flujo de GitHub
-Borron y cuenta nueva
+Saludos Terricolas
+Para todo el mundo
+Incluso para la Elite
+Menos para los wokes
