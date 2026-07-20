@@ -7,3 +7,10 @@ Saludos Terricolas
 Incluso para la Elite
 Menos para los wokes
 GeotOut
+'''campeones'''
+
+```
+git status
+git add
+git commit
+```
