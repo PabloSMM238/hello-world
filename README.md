@@ -14,3 +14,9 @@ git status
 git add
 git commit
 ```
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+1. First list item
+   - First nested list item
+     - Second nested list item
